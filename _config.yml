@@ -1,0 +1,25 @@
+# Site settings
+title: Ryan Blue
+email: ryanzblue@gmail.com
+description: The Jekyll version of the Identity theme by HTML5 UP.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "firecrafty.github.io" # the base hostname & protocol for your site
+
+# Identity
+your-name: Ryan Blue
+your-title: Programmer | Roboticist | Nerd
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/firecrafty
+gitlab_url:
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://www.instagram.com/ryannamedfish/
+linkedin_url: https://www.linkedin.com/in/ryan-blue-b55a4a147/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/firecrafty
+
+# Build settings
+markdown: kramdown
