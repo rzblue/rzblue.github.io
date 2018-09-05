@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/firecrafty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://firecrafty.github.io
+  * I am firecrafty (https://keybase.io/firecrafty) on keybase.
+  * I have a public key ASATHQBm-eJEVzMpV5f8gaF8uToooImrkKk-kGxMZlPKLwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120131d0066f9e2445733295797fc81a17cb93a28a089ab90a93e906c4c6653ca2f0a",
+      "host": "keybase.io",
+      "kid": "0120131d0066f9e2445733295797fc81a17cb93a28a089ab90a93e906c4c6653ca2f0a",
+      "uid": "655e62e67c5fb6071e49c79fd72b7219",
+      "username": "firecrafty"
+    },
+    "merkle_root": {
+      "ctime": 1536112862,
+      "hash": "339448dbddd0628eed1fefbbb8c1a0d1247c1eba7e96ca457633ed66436e620f1565e32f446fd46b54da44bd2227c6838ca38277b35b837bd9ba3c9b06777b85",
+      "hash_meta": "3dc1b4185fb4650db7bf2287c5624ec7b48ca13374fb8df4b61191b29e6e56f5",
+      "seqno": 3564199
+    },
+    "service": {
+      "entropy": "Y0mN2YBbZS5fsxZQjQxwNjeY",
+      "hostname": "firecrafty.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.2"
+  },
+  "ctime": 1536112958,
+  "expire_in": 504576000,
+  "prev": "1d17822eef9ff6aea6a00743910543a3d8a95408b9f63395834d443f70c3ec6e",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEx0AZvniRFczKVeX/IGhfLk6KKCJq5CpPpBsTGZTyi8Kp3BheWxvYWTESpcCEsQgHReCLu+f9q6moAdDkQVDo9ipVAi59jOVg01EP3DD7G7EIIrQod65JiK2KKw6fS0nP9elBGO0M/XM0Mh0BKxkKUNsAgHCo3NpZ8RA3Ux3jEWb1r9jch1FtSAQtK7scsmKOg1G/TlK6aT18S3YNnbhNjz9o/5FhEF7oUPbScDs0t51MlT5ewfrlI+lD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKKGsp/baOvlTWZw3+wLZoqaVK87nmYCXY0c00PfKgffo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/firecrafty
+
+==================================================================
